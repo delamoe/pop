@@ -1,11 +1,5 @@
 [
   {
-    "name":"Baikonur",
-    "ccn3": "",
-    "cca3": "",
-    "population": 36000
-  },
-  {
     "name": "Caribbean Netherlands",
     "ccn3": "535",
     "cca3": "BES",
@@ -45,7 +39,7 @@
     "name": "Baikonur",
     "ccn3": "",
     "cca3": "",
-    "population": -1
+    "population": 36000
   },
   {
     "name": "Akrotiri",
